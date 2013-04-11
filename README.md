@@ -5,12 +5,12 @@ JSON in Java [package org.json]
 ==========
 
 Douglas Crockford
-douglas@crockford.com
+<douglas@crockford.com>
 
 2011-02-02
 
 
-JSON is a light-weight, language independent, data interchange format.
+**JSON is a light-weight, language independent, data interchange format.**
 See <http://www.JSON.org/>
 
 The files in this package implement JSON encoders/decoders in Java.
